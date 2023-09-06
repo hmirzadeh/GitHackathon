@@ -1,2 +1,2 @@
-def add_num(a, b):
+def AddNumber(a, b):
     return a - b
